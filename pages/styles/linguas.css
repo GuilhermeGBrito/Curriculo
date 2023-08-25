@@ -1,0 +1,24 @@
+#linguas-section {
+    padding: 20px;
+    background-color: #f0f0f0;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+#linguas-section h2 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+#linguas-section ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#linguas-section li {
+    font-size: 18px;
+    color: #666;
+    margin-bottom: 5px;
+}

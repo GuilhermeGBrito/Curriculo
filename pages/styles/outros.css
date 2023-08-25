@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+#outros-section {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+li {
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+
+.button-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.like-button {
+    background-color: green;
+    color: white;
+}
+
+.dislike-button {
+    background-color: red;
+    color: white;
+}
+
+#gifContainer {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.gif {
+    width: 300px; 
+    height: auto;
+}
+
+.hidden {
+    display: none;
+}
